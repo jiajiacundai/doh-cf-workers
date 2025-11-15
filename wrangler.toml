@@ -1,7 +1,7 @@
-name = "doh"
+name = "doh-cf-workers"
 workers_dev = true
 # route = "example.com/dns-query"
-compatibility_date = "2024-01-26"
+compatibility_date = "2025-09-30"
 
 main = "index.js"
 
